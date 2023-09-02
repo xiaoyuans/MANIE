@@ -1,0 +1,6 @@
+﻿  sis_data_pre.cpp
+C:\Users\Lenovo\Desktop\传播模型\noise_free\NW\data_generate\sis_data_pre.cpp(47,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\传播模型\noise_free\NW\data_generate\sis_data_pre.cpp(48,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\传播模型\noise_free\NW\data_generate\sis_data_pre.cpp(67,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\传播模型\noise_free\NW\data_generate\sis_data_pre.cpp(72,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  data_generate.vcxproj -> C:\Users\Lenovo\Desktop\传播模型\noise_free\NW\data_generate\Debug\data_generate.exe
